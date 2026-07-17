@@ -25,15 +25,22 @@ The application emphasizes usability, performance, and efficient business workfl
 
 # ✨ Features
 
+- 🔐 User Authentication
+- 🖥️ Point of Sale (POS)
 - 🍽️ Order Management
 - 💳 Billing & Payment Processing
 - 🧾 Receipt Printing
 - 📦 Product Management
-- 📂 Category Management
+- 🗂️ Category Management
 - 👥 Staff Management
-- 📊 Reports
-- 📈 Dashboard Analytics
+- 📋 Table Management
+- 📊 Sales Reports
+- 📈 Dashboard
 - ⚙️ System Settings
+- 💾 Database Backup & Restore
+- 📄 Transaction History
+- 🖨️ Printable Receipts
+- 🔒 Role-Based Access Control (Admin & Staff)
 
 ---
 
@@ -48,7 +55,69 @@ The application emphasizes usability, performance, and efficient business workfl
 
 # 📸 Screenshots
 
-> Add screenshots of the application here.
+## Login
+
+![Login](Screenshots/login.png)
+
+---
+
+## Dashboard
+
+![Dashboard](Screenshots/dashboard.png)
+
+---
+
+## Point of Sale
+
+![POS](Screenshots/pos.png)
+
+---
+
+## Product Management
+
+![Product Management](Screenshots/product-management.png)
+
+---
+
+## Product List
+
+![Product List](Screenshots/product-list.png)
+
+---
+
+## Order List
+
+![Order List](Screenshots/order-list.png)
+
+---
+
+## Payment
+
+![Payment](Screenshots/payment.png)
+
+---
+
+## Transactions
+
+![Transactions](Screenshots/transaction.png)
+
+---
+
+## Receipt
+
+![Receipt](Screenshots/reciept.png)
+
+---
+
+## Backup
+
+![Backup](Screenshots/backup.png)
+
+---
+
+## System Information
+
+![System Information](Screenshots/info.png)
 
 ---
 
