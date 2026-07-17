@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderingAndBillingSystem", "OrderingAndBillingSystem\OrderingAndBillingSystem.csproj", "{D4822DDA-3858-40CE-91CC-D988E8CBA99E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "POS App", "POS App\POS App.vdproj", "{14FA77F6-C5A3-49C5-9A05-25A5131E6801}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4822DDA-3858-40CE-91CC-D988E8CBA99E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4822DDA-3858-40CE-91CC-D988E8CBA99E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4822DDA-3858-40CE-91CC-D988E8CBA99E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4822DDA-3858-40CE-91CC-D988E8CBA99E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14FA77F6-C5A3-49C5-9A05-25A5131E6801}.Debug|Any CPU.ActiveCfg = Debug
+		{14FA77F6-C5A3-49C5-9A05-25A5131E6801}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69D84862-7EF5-41B1-B8AE-A0B3D01081C2}
+	EndGlobalSection
+EndGlobal
